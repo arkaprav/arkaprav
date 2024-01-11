@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arkaprav
-- 👀 I’m interested in Data Science and Artificial intelligence
-- 🌱 I’m currently learning B.Tech in Electronics and Communication Engineering in RCC Institute of Information Technology
-- 💞️ I’m looking to collaborate on any Data Science or Machine Learning or Electronics Automation projects
+- 👀 I’m interested in Data Science, Web Development and UI/UX Design.
+- 🌱 I’ve passed my B.Tech in Electronics and Communication Engineering from RCC Institute of Information Technology
+- 💞️ I’m looking to collaborate on any Data Science or Machine Learning or Web Development or Electronics Automation projects
 - 📫 14/B, Subhashpally, kolkata - 700092, phone no. - 8585859890(whatsapp), gmail- chakraarkaprava@gmail.com
 
 <!---
